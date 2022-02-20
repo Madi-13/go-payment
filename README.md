@@ -1,4 +1,6 @@
-![GitHub top language](https://img.shields.io/github/languages/top/Madi-13/go-payment)
+![GitHub top language](https://img.shields.io/github/languages/top/Madi-13/go-payment?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/Madi-13/go-payment?color=yellow&style=for-the-badge)
+
 
 # Финансовая грамотность
 
