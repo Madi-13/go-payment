@@ -3,7 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Madi-13/go-payment?color=yellow&style=for-the-badge)
 ![GitHub watchers](https://img.shields.io/github/watchers/Madi-13/go-payment?style=social)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/Madi-13/go-payment?style=for-the-badge)
-![AUR last modified](https://img.shields.io/aur/last-modified/google-chrome?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Madi-13/go-payment?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/Madi-13/go-payment?color=gree&style=for-the-badge)
 
 
 # Финансовая грамотность
