@@ -1,7 +1,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Madi-13/go-payment?style=for-the-badge)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/Madi-13/go-payment?style=for-the-badge)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Madi-13/go-payment?color=yellow&style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Madi-13/go-payment?color=yellow&style=for-the-badge)
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/Madi-13/go-payment?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Madi-13/go-payment?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/Madi-13/go-payment?color=gree&style=for-the-badge)
 
