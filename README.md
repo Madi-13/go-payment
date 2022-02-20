@@ -1,3 +1,5 @@
+![GitHub top language](https://img.shields.io/github/languages/top/Madi-13/go-payment)
+
 # Финансовая грамотность
 
 ## Описание задания:
